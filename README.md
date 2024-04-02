@@ -30,6 +30,6 @@ CONFIGURAÇÃO -
 EXECUÇÃO - 
 1. Abra o prompt de comando
 2. Navegue até o diretório onde você salvou o arquivo desafio.py
-3. Execute o arquivo desafio.py usando o Python. Você pode fazer isso digitando o seguinte comando no terminal ou prompt de comando: python test_login.py
+3. Execute o arquivo desafio.py usando o Python. Você pode fazer isso digitando o seguinte comando no terminal ou prompt de comando: python desafio.py
 4. Os testes serão executados e você verá a saída no terminal indicando se os testes passaram ou falharam
 5. Após a execução dos testes, o navegador será fechado automaticamente
